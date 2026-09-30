@@ -1,0 +1,9 @@
+{
+  "name": "network-security-basics",
+  "version": "1.0.0",
+  "description": "Network Security Basics – Network Security Analyzer",
+  "scripts": {
+    "dev": "python -m streamlit run app.py",
+    "start": "python -m streamlit run app.py"
+  }
+}
